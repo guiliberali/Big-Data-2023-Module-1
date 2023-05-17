@@ -39,7 +39,7 @@ If you are not familiar with R markdown please go through this short tutorial in
 
 - [Introduction to R and R markdown](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/preparation/Intro-to-RMarkdown.pdf)
 
-Greta Wackerbauer, our TA (learningbigdata22@gmail.com) will review and discuss this short tutorial on Rmarkdown on September 2 at 3pm (i.e., right after the first lecture) and see if anyone has any questions on how to use R and RMarkdown. Feel free to attend if you would like to get some tips, but do make sure you first try to install R studio and R Markdown on your computer before the class.  
+Hasan, our TA (learningbigdata23@gmail.com) will review and discuss this short tutorial on on September 8 at 3pm (i.e., right after the first lecture) and see if anyone has any questions on how to use Python. Feel free to attend if you would like to get some tips, but do make sure you first try to install it on your computer before the class.  
 
  
 ## Lecture materials for module 1

@@ -55,10 +55,10 @@ Advanced reading: On the optimality of naive Bayes - optional [here](https://git
 
 CODE
 
-.Lecture 01-1:[notebooks](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/lectures/Lecture_1) 
+.Lecture 01-1: [notebooks](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/lectures/Lecture_1) 
   
 
-.Lecture 01-2:[notebooks](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/lectures/Lecture_2)   [Naive Bayes classifier - fundamentals - a cartoon version in Excel](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/lectures/Lecture_2/Cartoon_Example_NBC.xlsx)  
+.Lecture 01-2: [notebooks](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/lectures/Lecture_2) and  [Naive Bayes classifier - fundamentals - a cartoon version in Excel](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/lectures/Lecture_2/Cartoon_Example_NBC.xlsx)  
 
 
 .Lecture 01-3: [notebooks](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/lectures/Lecture_3) 

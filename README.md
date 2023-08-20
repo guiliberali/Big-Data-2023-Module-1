@@ -75,7 +75,7 @@ CODE
 
 ASSIGNMENT MODULE 1
 
-.Assigment [details](https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/assigment/Assignment%20Module%201_task.pdf) and  [template](https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/assigment/Assignment_1_ERNANUMBER.ipynb)
+.Assigment [1. first steps](https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/assigment/One-pager.pdf) [2. full details](https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/assigment/Assignment%20Module%201_task.pdf) and  [3. template](https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/assigment/Assignment_1_ERNANUMBER.ipynb)
 
 .Rubric - please download it from Canvas. 
  

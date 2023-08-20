@@ -8,8 +8,8 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Repository content](#repository-content)
-* [Getting up to speed](#Getting-up-to-speed)
-* [Lecture materials for Module 1](#lecture-materials)
+* [Getting up to speed](#Getting-up-to-speed---Course-preparation)
+* [Lecture materials for Module 1](#Lecture-materials-for-module-1)
 
   
 <!-- vim-markdown-toc -->

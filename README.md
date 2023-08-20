@@ -66,7 +66,7 @@ CODE
 .Lecture 01-1: [notebooks](https://github.com/guiliberali/Big-Data-2023-Module-1/tree/main/lectures/Lecture_1) 
   
 
-.Lecture 01-2: [notebooks](https://github.com/guiliberali/Big-Data-2023-Module-1/tree/main/lectures/Lecture_2) and  [Naive Bayes classifier - fundamentals - a cartoon version in Excel](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/lectures/Lecture_2/Cartoon_Example_NBC.xlsx)  
+.Lecture 01-2: [notebooks](https://github.com/guiliberali/Big-Data-2023-Module-1/tree/main/lectures/Lecture_2) and  [Naive Bayes classifier - fundamentals - a cartoon version in Excel](https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/lectures/Lecture_2/Cartoon_Example_NBC.xlsx)  
 
 
 .Lecture 01-3: [notebooks](https://github.com/guiliberali/Big-Data-2023-Module-1/tree/main/lectures/Lecture_3) 
@@ -75,7 +75,7 @@ CODE
 
 ASSIGNMENT MODULE 1
 
-.Assigment template in [PDF](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/assignment%201/Assignment_1_ERNANUMBER.pdf)   and [here](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/assignment%201/Assignment_1_ERNANUMBER.ipynb)
+.Assigment template in [PDF] (https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/assignment%201/Assignment_1_ERNANUMBER.pdf)   and [here](https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/assignment%201/Assignment_1_ERNANUMBER.ipynb)
 
 .Rubric - please download it from Canvas. 
  

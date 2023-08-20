@@ -33,7 +33,14 @@ In the lectures, we will use Python to illustrate implementation-related key poi
 
 For the homework assignment, use the structure found in the final assignment file, available in this repo.
 
-## Getting up to speed
+## Getting up to speed - Course preparation
+
+Please consider studying the material covered in the following online courses:
+
+[Introduction To Python Programming](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/pythonforbeginnersintro.html)
+[Five Best Free Pandas Courses](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/5-best-free-pandas-courses-for-beginners-in-2022-d7dbe017b90c.html)
+
+Use textbooks or online resources to fill gaps in your skills. The pre-course assignments will prepare you for the materials covered in Learning from Big Data and help you assess how ready you are for this course.
 
 Hasan, our TA (learningbigdata23@gmail.com) will review and discuss a short tutorial on Python on September 8 at 3pm (i.e., right after the first lecture) and see if anyone has any questions on how to use Python and Jupyter files. Feel free to attend if you would like to get some tips, but do make sure you first try to install it on your computer before the class.  
 

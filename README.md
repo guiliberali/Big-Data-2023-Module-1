@@ -52,31 +52,33 @@ Here are links to theory and practice (data/code) when applicable. You may need 
 
 THEORY
 
-. Lecture 01-1: Introduction. [Berger et al. overview on text analytics in marketing](https://journals.sagepub.com/doi/full/10.1177/0022242919873106 ) and [Datar and Bowler's Tamarin case](https://www.thecasecentre.org/course/registerForCourse?ucc=C%2D4874%2D6030%2DSCH).   
+* Lecture 01-1: Introduction. [Berger et al. overview on text analytics in marketing](https://journals.sagepub.com/doi/full/10.1177/0022242919873106 ) and [Datar and Bowler's Tamarin case](https://www.thecasecentre.org/course/registerForCourse?ucc=C%2D4874%2D6030%2DSCH).   
 
-. Lecture 01-2: Supervised Models and NLP. [Zacharski chapters 6 and 7 on NBC](http://guidetodatamining.com/) and [Hutto and Gilber's paper on VADER](https://ojs.aaai.org/index.php/ICWSM/article/view/14550).
+* Lecture 01-2: Supervised Models and NLP. [Zacharski chapters 6 and 7 on NBC](http://guidetodatamining.com/) and [Hutto and Gilber's paper on VADER](https://ojs.aaai.org/index.php/ICWSM/article/view/14550).
 Advanced reading: On the optimality of naive Bayes - optional [here](https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/lectures/Lecture_2/The_Optimality_of_Naive_Bayes.pdf)  
 
-. Lecture 01-3: Unsupervised Models and NLP. [Blei et al.'s classical paper on LDA](https://dl.acm.org/doi/10.5555/944919.944937) and  [Mikolov et al.'s classical paper on word2vec ](https://arxiv.org/abs/1301.3781).   
+* Lecture 01-3: Unsupervised Models and NLP. [Blei et al.'s classical paper on LDA](https://dl.acm.org/doi/10.5555/944919.944937) and  [Mikolov et al.'s classical paper on word2vec ](https://arxiv.org/abs/1301.3781).   
 
 
 
 CODE
 
-.Lecture 01-1: [notebooks](https://github.com/guiliberali/Big-Data-2023-Module-1/tree/main/lectures/Lecture_1) 
+* Lecture 01-1: [notebooks](https://github.com/guiliberali/Big-Data-2023-Module-1/tree/main/lectures/Lecture_1) 
   
 
-.Lecture 01-2: [notebooks](https://github.com/guiliberali/Big-Data-2023-Module-1/tree/main/lectures/Lecture_2) and  [Naive Bayes classifier - fundamentals - a cartoon version in Excel](https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/lectures/Lecture_2/Cartoon_Example_NBC.xlsx)  
+* Lecture 01-2: [notebooks](https://github.com/guiliberali/Big-Data-2023-Module-1/tree/main/lectures/Lecture_2) and  [Naive Bayes classifier - fundamentals - a cartoon version in Excel](https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/lectures/Lecture_2/Cartoon_Example_NBC.xlsx)  
 
 
-.Lecture 01-3: [notebooks](https://github.com/guiliberali/Big-Data-2023-Module-1/tree/main/lectures/Lecture_3) 
+* Lecture 01-3: [notebooks](https://github.com/guiliberali/Big-Data-2023-Module-1/tree/main/lectures/Lecture_3) 
 
 
 
 ASSIGNMENT MODULE 1
 
-.Assigment [1. first steps](https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/assigment/One-pager.pdf) [2. full details](https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/assigment/Assignment%20Module%201_task.pdf) and  [3. template](https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/assigment/Assignment_1_ERNANUMBER.ipynb)
+* [1. first steps](https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/assigment/One-pager.pdf)
+* [2. full details](https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/assigment/Assignment%20Module%201_task.pdf) 
+* [3. template](https://github.com/guiliberali/Big-Data-2023-Module-1/blob/main/assigment/Assignment_1_ERNANUMBER.ipynb)
 
-.Rubric - please download it from Canvas. 
+* Rubric - please download it from Canvas. 
  
 

@@ -29,17 +29,13 @@
 
 The repository content is designed to make participation in Learning from Big Data as easy and enjoyable for you as possible. The content of this repo is being continuously updated until the last day of classes. 
 
-In the lectures, we will use R to illustrate implementation-related key points. The code files will be published in this repository ahead of the lecture. Please make sure that you can execute the code, and solve eventual challenges, before joining the class so you can easily follow the coding parts in the lectures.  
+In the lectures, we will use Python to illustrate implementation-related key points. The code files will be published in this repository ahead of the lecture. Please make sure that you can execute the code, and solve eventual challenges, before joining the class so you can easily follow the coding parts in the lectures.  
 
-For the homework assignment, use the structure found in the final assignment RMarkdown file, available in this repo.
+For the homework assignment, use the structure found in the final assignment file, available in this repo.
 
 ## Getting up to speed
 
-If you are not familiar with Python and Jupyter notebooks please go through this short tutorial in the following link.
-
-- [Introduction to R and R markdown](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/preparation/Intro-to-RMarkdown.pdf)
-
-Hasan, our TA (learningbigdata23@gmail.com) will review and discuss this short tutorial on on September 8 at 3pm (i.e., right after the first lecture) and see if anyone has any questions on how to use Python and Jupyter files. Feel free to attend if you would like to get some tips, but do make sure you first try to install it on your computer before the class.  
+Hasan, our TA (learningbigdata23@gmail.com) will review and discuss a short tutorial on Python on September 8 at 3pm (i.e., right after the first lecture) and see if anyone has any questions on how to use Python and Jupyter files. Feel free to attend if you would like to get some tips, but do make sure you first try to install it on your computer before the class.  
 
  
 ## Lecture materials for module 1
@@ -60,20 +56,18 @@ Advanced reading: On the optimality of naive Bayes - optional [here](https://git
 CODE
 
 .Lecture 01-1:
-[Unsupervised - example](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/lectures/Lecture_1/unsupervised-example.Rmd) and 
-[Supervised-example](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/lectures/Lecture_1/Supervised-example.R)
+  
 
-.Lecture 01-2: [Naive Bayes classifier - fundamentals - a cartoon version in Excel](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/lectures/Lecture_2/Cartoon_Example_NBC.xlsx) and
-[supervised naive Bayes Classifier](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/lectures/Lecture_2/Supervised-NBC.R)
+.Lecture 01-2: [Naive Bayes classifier - fundamentals - a cartoon version in Excel](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/lectures/Lecture_2/Cartoon_Example_NBC.xlsx)  
 
 
-.Lecture 01-3:[unsupervised Latend Dirichlet Allocation and Word Embeddings - simple examples using packages](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/lectures/Lecture_3/session%203.Rmd )
+.Lecture 01-3: 
 
 
 
 ASSIGNMENT MODULE 1
 
-.Assigment template in [PDF](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/assignment%201/Assignment_1_ERNANUMBER.pdf) and [R markdown](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/assignment%201/Assignment_1_ERNANUMBER.Rmd)
+.Assigment template in [PDF](https://github.com/guiliberali/Learning-from-Big-Data-Module-1/blob/main/assignment%201/Assignment_1_ERNANUMBER.pdf)  
 
 .Rubric - please download it from Canvas. 
  

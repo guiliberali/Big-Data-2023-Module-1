@@ -21,7 +21,7 @@
 ├── README.md            # this readme file
 ├── preparation          # a survival guide to get you familiar with Python and Jupyter
 ├── lectures             # Jupyter notebooks with the materials used in our sessions 
-├── assignment 1         # Details and template for the assignment of module 1 
+├── assignment 1         # details and template for the assignment of module 1 
 ├── output               # folder used to store the output files generated in this repo  
 └── data                 # all data files used in module 1, including data for the assignment, lectures, and tutorials
 
